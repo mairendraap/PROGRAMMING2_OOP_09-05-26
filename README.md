@@ -1,4 +1,5 @@
-# Dokumentasi Proyek: Sistem Analisis Penjualan (OOP Python)
+# PROGRAMMING 2 - OBJECT ORIENTED PROGRAMMING
+## Herdan Wahyu Mairendra Pangestu_3325600064
 
 Dokumentasi ini mencakup penjelasan saya tentang logika, sintaks, dan penerapan konsep Object-Oriented Programming (OOP) untuk Latihan 2a, 2b, 3a, dan 3b.
 
