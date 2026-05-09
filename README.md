@@ -1,6 +1,6 @@
 # Dokumentasi Proyek: Sistem Analisis Penjualan (OOP Python)
 
-Dokumentasi ini mencakup penjelasan logika, sintaks, dan penerapan konsep Object-Oriented Programming (OOP) untuk Latihan 2a, 2b, 3a, dan 3b.
+Dokumentasi ini mencakup penjelasan saya tentang logika, sintaks, dan penerapan konsep Object-Oriented Programming (OOP) untuk Latihan 2a, 2b, 3a, dan 3b.
 
 ## 1. Struktur Class dan Logika Program
 
@@ -51,6 +51,6 @@ Proyek ini menerapkan pilar-pilar utama OOP:
 
 ## 4. Cara Menjalankan di Google Colab
 
-1.  Copy seluruh kode class (`DataRecord`, `Dataset`, `DataAnalyzer`) ke dalam satu cell.
+1.  Buat kode class (`DataRecord`, `Dataset`, `DataAnalyzer`) ke dalam satu cell.
 2.  Buat file testing (misal: `data_penjualan.txt`) menggunakan kode Python atau upload manual.
 3.  Jalankan script utama untuk melihat hasil analisis di console.
